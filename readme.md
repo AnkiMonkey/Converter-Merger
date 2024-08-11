@@ -30,6 +30,8 @@ Converter-Merger provides two main functionalities:
 
 2. **PDF to Text Converter**: Converts a single PDF file to a text file. It extracts text from each page and formats it with separators and page numbers.
 
+This function is planned to be used to omit problems when copy-pasting from pdf to Excel/ANKI. Hereby it is possible from the TXT converted file of lecture in PDF. 
+
 Both functionalities are accessible through a main window where users can choose between merging PDFs or converting a PDF to text.
 
 <p align="left">(<a href="#readme-top">back to top</a>)</p>
