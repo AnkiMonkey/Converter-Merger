@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-<h3 align="center">PDF Tools</h3>
+<h3 align="center">Converter-Merger</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-PDF Tools is a Python application with a graphical user interface (GUI) that provides two main functionalities:
+Converter-Merger provides two main functionalities:
 
 1. **PDF Merger**: Merges multiple PDF files into a single PDF. It allows users to:
    - Add PDF files to the list.
@@ -45,9 +45,4 @@ To use this application, follow the instructions below:
 Ensure you have Python installed. You will also need the following Python libraries:
 
 - PyPDF2
-- Tkinter (usually included with Python)
-
-You can install the required library using pip:
-
-```bash
-pip install PyPDF2
+- Tkinter
